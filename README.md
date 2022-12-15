@@ -18,5 +18,9 @@
 </div>
 <hr/>
 <div>
-  :man_technologist: About Me :
+  :man_technologist: About Me : <br><br>
+  I am Full Stack Developer 💻.<br><br>My advantages in:<br><br>
+  
+  - 🆕 Using new technologies
+
 </div>
