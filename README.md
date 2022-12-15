@@ -1,11 +1,22 @@
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://www.flaticon.com/free-icons/vk" alt="LinkedIn Badge"/>
+<div align="center">
+  <img src="https://img.icons8.com/bubbles/512/man-browser-window.png" width="350" alt="User"/>
+</div>
+<div align="center">
+  <a href="https://vk.com/bigblackpapik">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://gitlab.com/0-MR-WIZARD-0">
+    <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://t.me/boris_zunnunov">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="GitLab"/>
   </a>
+</div>
+<hr/>
+<div align="center" >
+  <img src="https://komarev.com/ghpvc/?username=0-MR-WIZARD-0&style=flat-square&color=blue" alt=""/>
+</div>
+<hr/>
+<div>
+  :man_technologist: About Me :
 </div>
