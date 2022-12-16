@@ -57,3 +57,4 @@
 
 <!-- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only) -->
 
+![snake gif](https://github.com/0-MR-WIZARD-0/0-MR-WIZARD-0/blob/output/github-contribution-grid-snake.gif)
