@@ -47,7 +47,11 @@
 <hr/>
 :fire: My Stats :<br><br>
 
+<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-MR-WIZARD-0&layout=demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
  ---
 
