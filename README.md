@@ -48,12 +48,11 @@
 :fire: My Stats :<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-MR-WIZARD-0&layout=demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
----
 
+ ---
+
+<div align="center">
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=0-MR-WIZARD-0&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![GitHub Snake Light](github-snake.svg#gh-light-mode-only) -->
-
-<!-- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only) -->
-
+</div>
