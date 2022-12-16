@@ -19,7 +19,10 @@
 <hr/>
 <div>
   :man_technologist: About Me : <br><br>
-  I am Full Stack Developer 💻.<br><br>My advantages in:<br><br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Full+Stack+Developer+💻)](https://git.io/typing-svg)
+  
+  My advantages in:
   
   - 🆕 Using new technologies
 
