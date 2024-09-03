@@ -16,8 +16,8 @@
 <hr/>
 <div>
   :man_technologist: About Me : <br><br>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Full+Stack+Developer+💻)](https://git.io/typing-svg)
+
+  Motivated self-starter passionate about web technologies, with a solid foundation in front-end, back-end, and database development. Proven track record in creating highly scalable, fast, and aesthetically pleasing enterprise-grade systems efficiently.
   
   My advantages in:
   
