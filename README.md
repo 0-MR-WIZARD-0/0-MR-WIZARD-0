@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/bubbles/512/man-browser-window.png" width="350" alt="User"/>
-</div>
-<div align="center">
   <a href="https://vk.com/bigblackpapik">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
   </a>
@@ -44,15 +41,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>
 </div>
-<hr/>
-:fire: My Stats :<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0-MR-WIZARD-0&layout=demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
- ---
-
-<div align="center">
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0-MR-WIZARD-0&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
